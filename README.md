@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Olá, eu sou a Beatriz! 🐍💻</h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e desenvolvimento de software!
+  Estudante de análise e desenvolvimento de sistemas, apaixonada por tecnologia e desenvolvimento de software!
 </p>
 
 ---
