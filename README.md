@@ -14,3 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Olá, eu sou a Beatriz! 🐍💻</h1>
+
+<p align="center">
+  Estudante de Python, apaixonada por tecnologia e desenvolvimento de software!
+</p>
+
+---
+
+### 🎮 Joguinho da Cobrinha (Snake Game) - Versão GitHub Profile Stats
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
+
+---
+
+### 🧰 Tecnologias que estou estudando:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</div>
+
+---
+
+### 🚀 Sobre mim:
+
+- 🌱 Atualmente aprendendo **Python**
+- 🎯 Próximo objetivo: Conquistar minha primeira oportunidade como estagiária na área de tecnologia! Tô super aberta a dicas, feedbacks e aprendizados... então se quiser compartilhar alguma sugestão ou até uma oportunidade, vou ficar muito feliz! 😊🚀
+- 📫 Contato: https://www.linkedin.com/in/beatrizstefsilva/
+
+---
+
+⭐Obrigada por visitar meu perfil!
