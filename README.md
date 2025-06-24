@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 - 🌱 Atualmente estou me aprofundando em **Python**
 - 🎯 Próximo objetivo: Conquistar minha primeira oportunidade na área de tecnologia! Tô super aberta a dicas, feedbacks e aprendizados... então se quiser compartilhar alguma sugestão ou até uma oportunidade, vou ficar muito agradecida! 😊🚀
-- 📫 Contato: https://www.linkedin.com/in/beatrizstefsilva/
+- 📫 Sinta-se à vontade para entrar em contato comigo! 
 
 ---
 
